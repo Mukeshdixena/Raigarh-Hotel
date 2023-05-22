@@ -22,7 +22,7 @@ body {
     padding: 2rem;
     overflow: hidden;
     background-color: rgba(0, 0, 0, 0.486);
-   
+    row-reverse:true;
     gap: 5rem;
 }
 
